@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.21.0",
     "fs-extra": "^11.3.2",
-    "chalk": "^5.3.0",
+ "chalk": "^4.1.2"
     "gradient-string": "^2.0.2",
     "axios": "^1.12.2",
     "fca-horizon-remake": "^0.0.1-security",
