@@ -1,0 +1,121 @@
+{
+  "boxname": [
+    {
+      "threadID": "24352182577699540",
+      "name": "Milky Way☄️"
+    },
+    {
+      "threadID": "24131386026449809",
+      "name": "Bot Vip"
+    },
+    {
+      "threadID": "23945848465074528",
+      "name": "Cherry Blossom [2] - 櫻花"
+    }
+  ],
+  "boximage": [
+    {
+      "threadID": "29849073168040459",
+      "url": "https://i.ibb.co/nMczw1tR/494870585-1370590567379583-4555260234599315096-n-jpg-nc-cat-111-ccb-1-7-nc-sid-9f807c-nc-ohc-1-CB4dr.jpg"
+    },
+    {
+      "threadID": "24242826378687148",
+      "url": "https://i.ibb.co/RVswkmM/508005963-1006883318279783-1240707041740387086-n-jpg-nc-cat-106-ccb-1-7-nc-sid-9f807c-nc-ohc-Hqj-N-E.jpg"
+    },
+    {
+      "threadID": "9357884484317361",
+      "url": "https://i.ibb.co/27Z2W5kC/494579877-1028582576075614-3213155111366933507-n-jpg-nc-cat-108-ccb-1-7-nc-sid-9f807c-nc-ohc-Okiq-Q6.jpg"
+    },
+    {
+      "threadID": "24249515854672718",
+      "url": "https://i.ibb.co/xVZN1k1/510592329-1291024749398177-3766067360176257350-n-jpg-nc-cat-101-ccb-1-7-nc-sid-9f807c-nc-ohc-8-Pba-R.jpg"
+    },
+    {
+      "threadID": "24352182577699540",
+      "url": "https://i.ibb.co/7Nn3jgjc/509337403-760437626333251-7808348788039868824-n-jpg-stp-dst-jpg-s280x280-tt6-nc-cat-106-ccb-1-7-nc-s.jpg"
+    },
+    {
+      "threadID": "24131386026449809",
+      "url": "https://i.ibb.co/XfR48V5h/ad1df9bbc36b.jpg"
+    },
+    {
+      "threadID": "29788334417477516",
+      "url": "https://i.ibb.co/tPxK1Dp6/516343267-1275937650927816-7409778570768218505-n-jpg-stp-dst-jpg-s280x280-tt6-nc-cat-111-ccb-1-7-nc.jpg"
+    },
+    {
+      "threadID": "23945848465074528",
+      "url": "https://i.ibb.co/7Jy1f06D/fae3a82946fe.jpg"
+    }
+  ],
+  "antiout": {
+    "29849073168040459": true,
+    "8521668217959739": true,
+    "24249515854672718": true,
+    "23967444452875456": true,
+    "8695581363877360": true,
+    "23945848465074528": true,
+    "30435856169362787": true,
+    "861500430373471": true
+  },
+  "antiNickname": [],
+  "boxtheme": [
+    {
+      "threadID": "24131386026449809",
+      "themeID": "741311439775765",
+      "color": "FFF9005A"
+    },
+    {
+      "threadID": "24352182577699540",
+      "themeID": "1667467154651262",
+      "color": "FF4467C1"
+    },
+    {
+      "threadID": "23945848465074528",
+      "themeID": "1485402365695859"
+    },
+    {
+      "threadID": "8695581363877360",
+      "themeID": "1198771871464572"
+    },
+    {
+      "threadID": "861500430373471",
+      "themeID": "741311439775765"
+    }
+  ],
+  "boxemoji": [
+    {
+      "threadID": "24352182577699540",
+      "emoji": "🦔"
+    },
+    {
+      "threadID": "24131386026449809"
+    },
+    {
+      "threadID": "7481731538562259",
+      "emoji": "🫰"
+    },
+    {
+      "threadID": "23945848465074528",
+      "emoji": "😆"
+    },
+    {
+      "threadID": "8695581363877360",
+      "emoji": "💙"
+    },
+    {
+      "threadID": "861500430373471",
+      "emoji": "😝"
+    }
+  ],
+  "tagall": [
+    {
+      "threadID": "24131386026449809"
+    },
+    {
+      "threadID": "24352182577699540"
+    },
+    {
+      "threadID": "23945848465074528"
+    }
+  ]
+}

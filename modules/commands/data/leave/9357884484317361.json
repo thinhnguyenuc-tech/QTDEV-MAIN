@@ -1,0 +1,436 @@
+[
+  {
+    "name": "Nguyễn Bảo",
+    "uid": "61551612758590",
+    "time": "23:56:50 - 07/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61551612758590"
+  },
+  {
+    "name": "Quang Trung",
+    "uid": "100051439970359",
+    "time": "21:53:45 - 08/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100051439970359"
+  },
+  {
+    "name": "Hoàng Phạm",
+    "uid": "100076476017362",
+    "time": "23:16:35 - 08/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100076476017362"
+  },
+  {
+    "name": "Tuyết Nhy",
+    "uid": "100085052182001",
+    "time": "00:46:28 - 09/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100085052182001"
+  },
+  {
+    "name": "Quỳnh Nga",
+    "uid": "100024639404495",
+    "time": "12:01:56 - 09/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100024639404495"
+  },
+  {
+    "name": "Bui Yen Thu",
+    "uid": "100085692015079",
+    "time": "12:44:16 - 09/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100085692015079"
+  },
+  {
+    "name": "Ng Bảo Trân",
+    "uid": "61577024135279",
+    "time": "12:46:16 - 09/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61577024135279"
+  },
+  {
+    "name": "Tran Khanh Ly",
+    "uid": "100093121685328",
+    "time": "12:53:51 - 09/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100093121685328"
+  },
+  {
+    "name": "Nguyễn Mai",
+    "uid": "61566332138869",
+    "time": "18:01:13 - 09/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61566332138869"
+  },
+  {
+    "name": "Đỗ Chí Hiếu",
+    "uid": "61572794793533",
+    "time": "18:02:46 - 09/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61572794793533"
+  },
+  {
+    "name": "Trần Ngọc Trà My",
+    "uid": "100041496720791",
+    "time": "18:06:29 - 09/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100041496720791"
+  },
+  {
+    "name": "Trần Bảo Khánh",
+    "uid": "100064129763611",
+    "time": "18:37:22 - 09/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100064129763611"
+  },
+  {
+    "name": "Nam Nguyễn",
+    "uid": "100091414179444",
+    "time": "20:44:32 - 10/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100091414179444"
+  },
+  {
+    "name": "Vũ Ngọc Vân",
+    "uid": "100067081135902",
+    "time": "22:53:43 - 10/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100067081135902"
+  },
+  {
+    "name": "Tran Duc Huy",
+    "uid": "100075994976389",
+    "time": "23:23:57 - 10/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100075994976389"
+  },
+  {
+    "name": "Duy Khanh",
+    "uid": "61550760406425",
+    "time": "22:07:16 - 11/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61550760406425"
+  },
+  {
+    "name": "Phan Kieu Anh",
+    "uid": "61568905386854",
+    "time": "01:17:15 - 15/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61568905386854"
+  },
+  {
+    "name": "Linh Chi",
+    "uid": "61560066934385",
+    "time": "01:17:15 - 15/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61560066934385"
+  },
+  {
+    "name": "Gia Hân",
+    "uid": "100080257952437",
+    "time": "01:17:17 - 15/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100080257952437"
+  },
+  {
+    "name": "Duy Khánh",
+    "uid": "61564243619954",
+    "time": "20:17:21 - 17/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61564243619954"
+  },
+  {
+    "name": "Nguyen Yen",
+    "uid": "100094154629105",
+    "time": "01:17:18 - 15/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100094154629105"
+  },
+  {
+    "name": "Ngọc Linh",
+    "uid": "61558455921143",
+    "time": "01:19:08 - 15/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61558455921143"
+  },
+  {
+    "name": "Dương Trung Dũng",
+    "uid": "100092402673667",
+    "time": "00:21:13 - 28/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100092402673667"
+  },
+  {
+    "name": "Dự Báo Thời Tiết",
+    "uid": "61566032138857",
+    "time": "16:28:50 - 16/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61566032138857"
+  },
+  {
+    "name": "Nờ Tờ",
+    "uid": "61553914507542",
+    "time": "00:13:20 - 17/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61553914507542"
+  },
+  {
+    "name": "N. Zăn Chiến",
+    "uid": "100083733452432",
+    "time": "00:13:58 - 17/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100083733452432"
+  },
+  {
+    "name": "Kim Vy",
+    "uid": "61565022381588",
+    "time": "10:36:03 - 17/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61565022381588"
+  },
+  {
+    "name": "Người dùng facebook",
+    "uid": "100084119760650",
+    "time": "21:59:47 - 17/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100084119760650"
+  },
+  {
+    "name": "Hanh Hanh",
+    "uid": "61575198726507",
+    "time": "21:08:42 - 18/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61575198726507"
+  },
+  {
+    "name": "Như Huỳnh",
+    "uid": "100094588677469",
+    "time": "21:16:15 - 18/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100094588677469"
+  },
+  {
+    "name": "Đen Trắng",
+    "uid": "100089877112021",
+    "time": "21:35:36 - 18/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100089877112021"
+  },
+  {
+    "name": "裴黎庆韦",
+    "uid": "100071683637714",
+    "time": "21:43:24 - 20/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100071683637714"
+  },
+  {
+    "name": "Thảo Không Vui",
+    "uid": "61575753393955",
+    "time": "21:43:34 - 20/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61575753393955"
+  },
+  {
+    "name": "Anh Thu",
+    "uid": "100088510637196",
+    "time": "10:51:11 - 23/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100088510637196"
+  },
+  {
+    "name": "Xuân Bắc",
+    "uid": "61574813496468",
+    "time": "11:27:21 - 23/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61574813496468"
+  },
+  {
+    "name": "Hoàng Huy",
+    "uid": "100084949329281",
+    "time": "11:40:14 - 23/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100084949329281"
+  },
+  {
+    "name": "bao ngoc",
+    "uid": "100091943751564",
+    "time": "19:46:22 - 23/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100091943751564"
+  },
+  {
+    "name": "Người dùng facebook",
+    "uid": "61573878354810",
+    "time": "20:51:40 - 23/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61573878354810"
+  },
+  {
+    "name": "Huy Hoàng",
+    "uid": "61562431470440",
+    "time": "23:35:05 - 23/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61562431470440"
+  },
+  {
+    "name": "Anh Quan",
+    "uid": "61574124696575",
+    "time": "02:58:24 - 24/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61574124696575"
+  },
+  {
+    "name": "Nguyễn Lan Thương",
+    "uid": "100077430817627",
+    "time": "15:57:26 - 24/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100077430817627"
+  },
+  {
+    "name": "Tuệ Nhi",
+    "uid": "61576037051534",
+    "time": "15:57:32 - 24/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61576037051534"
+  },
+  {
+    "name": "Ng Phuongg",
+    "uid": "61556351699300",
+    "time": "20:54:15 - 24/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61556351699300"
+  },
+  {
+    "name": "Anh Thu",
+    "uid": "100085156821140",
+    "time": "00:52:42 - 25/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100085156821140"
+  },
+  {
+    "name": "Truong Ng Linh",
+    "uid": "100094068383378",
+    "time": "13:42:56 - 25/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100094068383378"
+  },
+  {
+    "name": "Sóc Nâu",
+    "uid": "61573782302665",
+    "time": "22:33:58 - 27/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61573782302665"
+  },
+  {
+    "name": "Thiên Ân",
+    "uid": "61550354120391",
+    "time": "19:14:43 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61550354120391"
+  },
+  {
+    "name": "Vu Duc Viet",
+    "uid": "61574183355567",
+    "time": "19:14:44 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61574183355567"
+  },
+  {
+    "name": "Người dùng Facebook",
+    "uid": "61561050765288",
+    "time": "19:14:44 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61561050765288"
+  },
+  {
+    "name": "Ngọc Lam Trần",
+    "uid": "61563984741263",
+    "time": "19:14:46 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61563984741263"
+  },
+  {
+    "name": "Gia Linh",
+    "uid": "61563968566004",
+    "time": "19:14:46 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61563968566004"
+  },
+  {
+    "name": "Nguoi Tinh Cua Anh",
+    "uid": "61575224505507",
+    "time": "19:14:47 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61575224505507"
+  },
+  {
+    "name": "The Luong",
+    "uid": "61566443034895",
+    "time": "19:14:48 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61566443034895"
+  },
+  {
+    "name": "Người dùng Facebook",
+    "uid": "61575356671184",
+    "time": "19:14:49 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61575356671184"
+  },
+  {
+    "name": "Hu Hi",
+    "uid": "100079828954790",
+    "time": "19:14:50 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100079828954790"
+  },
+  {
+    "name": "HT Ngoc Tram",
+    "uid": "100080464595933",
+    "time": "19:14:53 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100080464595933"
+  },
+  {
+    "name": "Người dùng Facebook",
+    "uid": "61570904274610",
+    "time": "19:15:56 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61570904274610"
+  },
+  {
+    "name": "Người dùng Facebook",
+    "uid": "61576374353386",
+    "time": "19:15:57 - 28/06/2025",
+    "reason": "Đã bị Quản trị viên xóa khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61576374353386"
+  },
+  {
+    "name": "Người dùng facebook",
+    "uid": "100088956091015",
+    "time": "13:34:02 - 29/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100088956091015"
+  },
+  {
+    "name": "Đính",
+    "uid": "61576589194871",
+    "time": "14:42:07 - 29/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/61576589194871"
+  },
+  {
+    "name": "Duc Quoc Khong",
+    "uid": "100063733281658",
+    "time": "18:29:08 - 29/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100063733281658"
+  },
+  {
+    "name": "Mùa Đông Tokyo",
+    "uid": "100024517231001",
+    "time": "19:07:01 - 29/06/2025",
+    "reason": "Đã tự động rời khỏi nhóm.",
+    "facebook": "https://www.facebook.com/100024517231001"
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "lastActions": [],
+  "lastUser": null,
+  "context": {},
+  "greetings": [],
+  "userPatterns": {
+    "100040035856246": {
+      "topics": {},
+      "emotions": {
+        "neutral": 1
+      },
+      "responseStyle": {},
+      "lastInteraction": 1761239561028,
+      "emotionStrengths": {
+        "neutral": 0
+      }
+    }
+  },
+  "8695581363877360": {
+    "lastActions": [
+      {
+        "action": "reaction",
+        "details": {
+          "emoji": "🎶"
+        },
+        "timestamp": 1761239561894
+      },
+      {
+        "action": "search_music",
+        "details": {
+          "keyword": "Đom Đóm J97"
+        },
+        "timestamp": 1761239561919
+      }
+    ],
+    "lastUser": "100040035856246",
+    "context": {
+      "reaction": {
+        "emoji": "🎶"
+      },
+      "search_music": {
+        "keyword": "Đom Đóm J97"
+      }
+    },
+    "greetings": []
+  }
+}

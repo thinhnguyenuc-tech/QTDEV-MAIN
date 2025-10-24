@@ -1,0 +1,90 @@
+{
+    "fishingrod": {
+        "rodType": 4,
+        "enchantRod": {},
+        "rodName": "Golden fishing rod",
+        "cooldownTime": 30,
+        "durabilityDefault": 350,
+        "durability": 243,
+        "moneyFix": 125,
+        "rateBroken": [
+            70,
+            150
+        ]
+    },
+    "inventory": [
+        {
+            "name": "Cherry Salmon",
+            "rarity": "Common",
+            "price": 100,
+            "size": [
+                33,
+                38
+            ],
+            "time": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ]
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1748412274,
+    "point": 100,
+    "totalMoney": 0,
+    "totalCatch": 1
+}
