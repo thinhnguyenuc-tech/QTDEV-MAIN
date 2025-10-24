@@ -1,13 +1,12 @@
 {
   "name": "kurumi-bot",
   "version": "1.0.0",
-  "description": "Kurumi Facebook bot running on Render",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
     "fs-extra": "^11.3.0"
   }
 }
