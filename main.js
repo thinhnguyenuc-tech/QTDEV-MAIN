@@ -567,8 +567,6 @@ app.listen(PORT, () => {
 // ===============================
 // Kurumi Bot - Server chạy trên Render
 // ===============================
-
-const express = require("express");
 const app = express();
 
 // Route chính để kiểm tra bot hoạt động
