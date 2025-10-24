@@ -1,7 +1,7 @@
 {
   "name": "kurumi-bot",
   "version": "1.0.0",
-  "description": "A simple Facebook Messenger Bot made by Thịnh",
+  "description": "Kurumi Facebook Messenger Bot (Render version)",
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thinhnguyenuc-tech/QTDEV-MAIN.git"
+    "url": "https://github.com/thinhnguyenuc-tech/QTDEV-MAIN.git"
   },
   "author": "Thinh Nguyen",
   "license": "GPL-3.0",
@@ -32,5 +32,8 @@
     "puppeteer": "^23.11.1",
     "sharp": "^0.33.5",
     "uuid": "^10.0.0"
+  },
+  "engines": {
+    "node": ">=20.x"
   }
 }
