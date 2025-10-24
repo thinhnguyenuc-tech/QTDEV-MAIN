@@ -1,22 +1,20 @@
 {
   "name": "kurumi-bot",
   "version": "1.0.0",
-  "description": "Kurumi Facebook bot running on Render",
+  "description": "Kurumi Facebook bot for Render deployment",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
   "dependencies": {
-    "express": "^4.21.0",
-    "fs-extra": "^11.3.2",
- "chalk": "^4.1.2"
-    "gradient-string": "^2.0.2",
-    "axios": "^1.12.2",
-    "fca-horizon-remake": "^0.0.1-security",
-    "dotenv": "^16.6.1",
-    "moment": "^2.29.4",
-    "google-tts-api": "^2.0.2",
-    "node-schedule": "^2.1.1",
-    "puppeteer": "^23.11.1"
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "facebook-chat-api": "^1.8.0",
+    "fs-extra": "^11.1.1",
+    "gradient-string": "^2.0.2"
+  },
+  "engines": {
+    "node": ">=18.x"
   }
 }
