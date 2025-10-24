@@ -6,7 +6,7 @@ let co;
 let error;
 if (theme.toLowerCase() === 'blue') {
   co = gradient([{color: "#1affa3", pos: 0.2},{color:"cyan",pos:0.4},{color:"pink",pos:0.6},{color:"cyan",pos:0.8},{color:'#1affa3',pos:1}]);
-  error = chalk.red.bold;
+  error = chalk.bold.red;
 }
 else if (theme=="dream2") 
 {
