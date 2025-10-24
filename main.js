@@ -551,33 +551,30 @@ function onBot({ models }) {
 })()
 process.on('unhandledRejection', (err, p) => {}).on('uncaughtException', err => { console.log(err);
 });
-// ==== EXPRESS SERVER DÀNH CHO RENDER ====
+// ===============================
+// Kurumi Bot - Main Entry
+// ===============================
+
 const express = require("express");
 const app = express();
 
-app.get("/", (req, res) => {
-  res.send("✅ Kurumi Bot đang hoạt động!");
-});
-
-const PORT = process.env.PORT || 10000;
-app.listen(PORT, () => {
-  console.log(`🌐 Server đang chạy tại cổng ${PORT}`);
-});
-// =========================================
-// ===============================
-// Kurumi Bot - Server chạy trên Render
-// ===============================
-const app = express();
-
-// Route chính để kiểm tra bot hoạt động
+// Route chính để Render kiểm tra trạng thái
 app.get("/", (req, res) => {
   res.send("✅ Kurumi Bot đang hoạt động trên Render!");
 });
 
-// Khai báo cổng Render sử dụng
+// Khởi tạo server
 const PORT = process.env.PORT || 10000;
-
-// Chạy server
 app.listen(PORT, () => {
   console.log(`🌐 Server đang chạy tại cổng ${PORT}`);
 });
+
+// ===============================
+// (Phần logic gốc của bot Kurumi)
+// ===============================
+
+// Nếu bạn có các module khác, ví dụ bot command hoặc login API,
+// hãy require và khởi động tại đây.
+// Ví dụ:
+// const kurumi = require('./kurumi');
+// kurumi.start();
