@@ -551,3 +551,16 @@ function onBot({ models }) {
 })()
 process.on('unhandledRejection', (err, p) => {}).on('uncaughtException', err => { console.log(err);
 });
+// ==== EXPRESS SERVER DÀNH CHO RENDER ====
+const express = require("express");
+const app = express();
+
+app.get("/", (req, res) => {
+  res.send("✅ Kurumi Bot đang hoạt động!");
+});
+
+const PORT = process.env.PORT || 10000;
+app.listen(PORT, () => {
+  console.log(`🌐 Server đang chạy tại cổng ${PORT}`);
+});
+// =========================================

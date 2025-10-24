@@ -22,7 +22,7 @@
     "@vitalets/google-translate-api": "^9.2.0",
     "axios": "^1.12.2",
     "chalk": "^4.1.2",
-    "express": "^4.21.0",
+    "express": "^4.21.2",
     "facebook-chat-api": "^1.8.0",
     "fca-horizon-remake": "^0.0.1-security",
     "fs-extra": "^11.3.2",
