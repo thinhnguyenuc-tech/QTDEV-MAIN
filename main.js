@@ -564,3 +564,22 @@ app.listen(PORT, () => {
   console.log(`🌐 Server đang chạy tại cổng ${PORT}`);
 });
 // =========================================
+// ===============================
+// Kurumi Bot - Server chạy trên Render
+// ===============================
+
+const express = require("express");
+const app = express();
+
+// Route chính để kiểm tra bot hoạt động
+app.get("/", (req, res) => {
+  res.send("✅ Kurumi Bot đang hoạt động trên Render!");
+});
+
+// Khai báo cổng Render sử dụng
+const PORT = process.env.PORT || 10000;
+
+// Chạy server
+app.listen(PORT, () => {
+  console.log(`🌐 Server đang chạy tại cổng ${PORT}`);
+});
