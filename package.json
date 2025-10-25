@@ -30,6 +30,7 @@
     "gradient-string": "^2.0.2",
     "is-hexcolor": "^1.0.0",
     "moment": "^2.29.4",
+    "moment-timezone": "^0.6.0",
     "puppeteer": "^23.11.1",
     "speakeasy": "^2.0.0",
     "uuid": "^10.0.0",
