@@ -150,21 +150,27 @@ catch (e) {
     console.log(e);
     global.Fca.Require.logger.Error();
 }
+module.exports = function (loginData, options, callback) {
+    const Language = global.Fca.Require.languageFile.find(
+        i => i.Language == global.Fca.Require.FastConfig.Language
+    ).Folder.Index;
 
-module.exports = function(loginData, options, callback) {
-    const Language = global.Fca.Require.languageFile.find((i) => i.Language == global.Fca.Require.FastConfig.Language).Folder.Index;
-    var login;
+    let login;
     try {
         login = require('./Main');
-    }
-    catch (e) {
-        console.log(e);
+        if (typeof login !== 'function') {
+            throw new Error("Module './Main' không export ra hàm login");
+        }
+    } catch (e) {
+        console.error("❌ Lỗi khi load './Main':", e);
+        return callback(e);
     }
 
     try {
-        login(loginData, options, callback);
-    }
-    catch (e) {
-        console.log(e);
+        return login(loginData, options, callback);
+    } catch (e) {
+        console.error("❌ Lỗi khi gọi hàm login:", e);
+        return callback(e);
     }
 };
+
