@@ -1,20 +1,35 @@
 {
   "name": "kurumi-bot",
-  "version": "1.0.0",
-  "description": "Kurumi Facebook bot for Render deployment",
+  "version": "1.2.16",
+  "description": "Kurumi Facebook bot (Mirai-V2 compatible) for Render",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node main.js",
+    "login": "node login",
+    "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinhnguyenuc-tech/QTDEV-MAIN.git"
+  },
+  "author": "Thinh Nguyen",
+  "license": "GPL-3.0",
   "dependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.12.2",
     "chalk": "^4.1.2",
-    "express": "^4.18.2",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.0",
     "facebook-chat-api": "^1.8.0",
-    "fs-extra": "^11.1.1",
-    "gradient-string": "^2.0.2"
+    "fluent-ffmpeg": "^2.1.3",
+    "fs-extra": "^11.3.2",
+    "gradient-string": "^2.0.2",
+    "moment": "^2.29.4",
+    "puppeteer": "^23.11.1",
+    "uuid": "^10.0.0",
+    "ytdl-core": "^4.11.5",
+    "better-sqlite3": "7.4.6"
   },
   "engines": {
-    "node": ">=18.x"
+    "node": ">=18 <20"
   }
 }
