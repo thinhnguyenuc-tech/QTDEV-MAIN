@@ -37,6 +37,7 @@
     "sequelize": "^6.37.7",
     "speakeasy": "^2.0.0",
     "sqlite3": "^5.1.7",
+    "totp-generator": "^2.0.0",
     "uuid": "^10.0.0",
     "ytdl-core": "^4.11.5"
   },
