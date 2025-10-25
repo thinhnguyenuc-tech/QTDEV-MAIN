@@ -27,6 +27,7 @@
     "fs-extra": "^11.2.0",
     "got": "^13.0.0",
     "gradient-string": "^2.0.2",
+    "is-hexcolor": "^1.0.0",
     "moment": "^2.29.4",
     "puppeteer": "^23.11.1",
     "speakeasy": "^2.0.0",
