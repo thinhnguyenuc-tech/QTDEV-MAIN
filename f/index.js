@@ -1,6 +1,7 @@
 'use strict';
 /* eslint-disable linebreak-style */
 const utils = require('./utils');
+const got = require('got'); // ✅ sửa: dùng require thay vì import
 
 global.Fca = new Object({
     isThread: new Array(),
@@ -9,7 +10,7 @@ global.Fca = new Object({
     Setting: new Map(),
     Require: new Object({
         fs: require("fs"),
-        Fetch: require('got'),
+        Fetch: got, // ✅ sửa: thay (await import('got')).default bằng require('got')
         log: require("npmlog"),
         utils: require("./utils.js"),
         logger: require('./logger.js'),
@@ -18,7 +19,7 @@ global.Fca = new Object({
     }),
     getText: function(...Data) {
         var Main = (Data.splice(0,1)).toString();
-            for (let i = 0; i < Data.length; i++) Main = Main.replace(RegExp(`%${i + 1}`, 'g'), Data[i]);
+        for (let i = 0; i < Data.length; i++) Main = Main.replace(RegExp(`%${i + 1}`, 'g'), Data[i]);
         return Main;
     },
     Data: new Object({
@@ -74,7 +75,7 @@ global.Fca = new Object({
 
 try {
     let Boolean_Fca = ["Uptime","ResetDataLogin", "DevMode"];
-    let String_Fca = ["MainName","Language","Config"]
+    let String_Fca = ["MainName","Language","Config"];
     let Number_Fca = ["AutoRestartMinutes","RestartMQTT_Minutes"];
     let Object_Fca = ["Stable_Version","AntiGetInfo", "AntiStuckAndMemoryLeak"];
     let All_Variable = Boolean_Fca.concat(String_Fca,Number_Fca,Object_Fca);
@@ -121,18 +122,18 @@ try {
 
         for (let i of Object_Fca) {
             const All_Paths = utils.getPaths(global.Fca.Data.ObjFastConfig[i]);
-            const Mission = { Main_Path: i, Data_Path: All_Paths }
-            for (let i of Mission.Data_Path) {
+            const Mission = { Main_Path: i, Data_Path: All_Paths };
+            for (let j of Mission.Data_Path) {
                 if (Data_Setting[Mission.Main_Path] == undefined) {
                     Data_Setting[Mission.Main_Path] = global.Fca.Data.ObjFastConfig[Mission.Main_Path];
                     global.Fca.Require.fs.writeFileSync(process.cwd() + "/FastConfigFca.json", JSON.stringify(Data_Setting, null, "\t"));      
                 }
-                const User_Data = (utils.getData_Path(Data_Setting[Mission.Main_Path], i, 0))
+                const User_Data = (utils.getData_Path(Data_Setting[Mission.Main_Path], j, 0));
                 const User_Data_Type = utils.getType(User_Data);
                 if (User_Data_Type == "Number") {
-                    const Mission_Path = User_Data == 0 ? i : i.slice(0, User_Data); 
+                    const Mission_Path = User_Data == 0 ? j : j.slice(0, User_Data); 
                     const Mission_Obj = utils.getData_Path(global.Fca.Data.ObjFastConfig[Mission.Main_Path], Mission_Path, 0);
-                    Data_Setting[Mission.Main_Path] = utils.setData_Path(Data_Setting[Mission.Main_Path], Mission_Path, Mission_Obj)
+                    Data_Setting[Mission.Main_Path] = utils.setData_Path(Data_Setting[Mission.Main_Path], Mission_Path, Mission_Obj);
                     global.Fca.Require.fs.writeFileSync(process.cwd() + "/FastConfigFca.json", JSON.stringify(Data_Setting, null, "\t"));      
                 }
             }
@@ -173,4 +174,3 @@ module.exports = function (loginData, options, callback) {
         return callback(e);
     }
 };
-

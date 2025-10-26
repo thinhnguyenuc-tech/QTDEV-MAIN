@@ -1,0 +1,5 @@
+datr	M_X9aH5XMEf15elufbr5NFlw	.facebook.com	/	2026-11-30T10:17:20.239Z	28	✓	✓	None			Medium
+presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1761473868316%2C%22v%22%3A1%7D	.facebook.com	/	Phiên	75		✓				Medium
+ps_l	1	.facebook.com	/	2026-11-30T10:17:43.538Z	5	✓	✓	Lax			Medium
+ps_n	1	.facebook.com	/	2026-11-30T10:17:43.539Z	5	✓	✓	None			Medium
+sb	M_X9aDWg0MOTTUGHJM5MnH4G	.facebook.com	/	2026-11-30T10:17:42.000Z	26	✓	✓	None			Medium
