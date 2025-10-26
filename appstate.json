@@ -1,7 +1,56 @@
-c_user	100014364948870	.facebook.com	/	2026-10-26T04:59:06.091Z	21		✓	None			Medium	
-datr	Kqr9aBi1PLdXr88fWkqQAYQk	.facebook.com	/	2026-11-30T04:57:12.102Z	28	✓	✓	None			Medium	
-fr	0SRoOEUljUtyiouWE.AWdzkWDRgKWewXauym3OQ37r1sQn_tJWkXHxguVqkwqIkZil3p0.Bo_aoq..AAA.0.0.Bo_ar3.AWfAu2WootzAzCsvYASYALYOQBQ	.facebook.com	/	2026-01-24T05:00:36.826Z	122	✓	✓	None			Medium	
-locale	vi_VN	.facebook.com	/	2025-11-02T04:57:34.721Z	11		✓	None			Medium	
-presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1761456587542%2C%22v%22%3A1%7D	.facebook.com	/	Phiên	75		✓				Medium	
-sb	Kqr9aI3upKXE8-QnQbL4gYRk	.facebook.com	/	2026-11-30T04:59:06.093Z	26	✓	✓	None			Medium	
-wd	811x607	.facebook.com	/	2025-11-02T05:29:50.000Z	9		✓	Lax			Medium	
+[
+  {
+    "key": "fr",
+    "value": "0SRoOEUljUtyiouWE.AWdzkWDRgKWewXauym3OQ37r1sQn_tJWkXHxguVqkwqIkZil3p0.Bo_aoq..AAA.0.0.Bo_ar3.AWfAu2WootzAzCsvYASYALYOQBQ",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2025-10-26T11:00:00.000Z",
+    "lastAccessed": "2025-10-26T11:00:00.000Z"
+  },
+  {
+    "key": "locale",
+    "value": "vi_VN",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2025-10-26T11:00:00.000Z",
+    "lastAccessed": "2025-10-26T11:00:00.000Z"
+  },
+  {
+    "key": "presence",
+    "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1761454845073%2C%22v%22%3A1%7D",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2025-10-26T11:00:00.000Z",
+    "lastAccessed": "2025-10-26T11:00:00.000Z"
+  },
+  {
+    "key": "sb",
+    "value": "Kqr9aI3upKXE8-QnQbL4gYRk",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2025-10-26T11:00:00.000Z",
+    "lastAccessed": "2025-10-26T11:00:00.000Z"
+  },
+  {
+    "key": "wd",
+    "value": "811x607",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2025-10-26T11:00:00.000Z",
+    "lastAccessed": "2025-10-26T11:00:00.000Z"
+  },
+  {
+    "key": "xs",
+    "value": "36%3AZ3zZwDKLLIB4Hw%3A2%3A1761454744%3A-1%3A-1",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2025-10-26T11:00:00.000Z",
+    "lastAccessed": "2025-10-26T11:00:00.000Z"
+  }
+]
